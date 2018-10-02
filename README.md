@@ -45,6 +45,7 @@ When you want to commit the work on the web you should:
 Then you can find the updates on the web.
 
 
-
+# Requirements
+To do the operations from the terminal you need to [download git](https://git-scm.com/downloads).
 
 
