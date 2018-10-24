@@ -31,7 +31,7 @@
 
 `git clone <URL_of_the_repository>`
 
-Since now one you can work on your laptop
+Since now any of your group can work on his own local repository 
 __IT IS VERY IMPORTANT__ that before starting to work in the folder you place in it and do 
 	`git pull`: it allowes you to work on updated files. __Be careful:__ you need to coordinate with you colleagues otherwise you would overwrite the work.
 
